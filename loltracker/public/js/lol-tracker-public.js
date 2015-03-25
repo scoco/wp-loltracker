@@ -1,8 +1,7 @@
 (function( $ ) {
 	'use strict';
-	 
 	 $( window ).load(function() {
-			$('#lol_tracker_widget_freechampions').html('<center><img src="wp-content/plugins/loltracker/public/images/preloader.gif"> loading...</center>');
+			$('#lol_tracker_widget_freechampions').html('<center><img src="'+preloaderUrl+'"/> Loading</center>');
 					$.ajax({
 					url: "wp-admin/admin-ajax.php?action=showFreeChampions",
 				}).done(function(championData){

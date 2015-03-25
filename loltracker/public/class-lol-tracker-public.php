@@ -73,7 +73,14 @@ class LoL_Tracker_Public {
 	public function enqueue_scripts() {
 
 		wp_enqueue_script( $this->lol_tracker, plugin_dir_url( __FILE__ ) . 'js/lol-tracker-public.js', array( 'jquery' ), $this->version, false );
+		add_action( 'wp_enqueue_scripts', 'jsVariables' );
+		$this->jsVariables();
 
+	}
+	
+	public function jsVariables() {
+		echo '<script>var preloaderUrl ="'. plugins_url( 'images/preloader.gif' , __FILE__ ). '"</script>';
+	
 	}
 
 }
