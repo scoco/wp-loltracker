@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       https://vvasiloud.github.io/loltracker
+ * @link       https://github.com/vvasiloud/wp-loltracker
  * @since      1.0.0
  *
  * @package    LoL_Tracker

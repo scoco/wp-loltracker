@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       https://vvasiloud.github.io/loltracker
+ * @link       https://github.com/vvasiloud/wp-loltracker
  * @since      1.0.0
  *
  * @package    LoL_Tracker

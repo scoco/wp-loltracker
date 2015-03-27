@@ -3,7 +3,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       https://vvasiloud.github.io/loltracker
+ * @link       https://github.com/vvasiloud/wp-loltracker
  * @since      1.0.0
  *
  * @package    LoL_Tracker
@@ -11,10 +11,6 @@
  */
 
 /**
- * Fired during plugin deactivation.
- *
- * This class defines all code necessary to run during the plugin's deactivation.
- *
  * @since      1.0.0
  * @package    LoL_Tracker
  * @subpackage LoL_Tracker/includes
@@ -23,9 +19,6 @@
 class LoL_Tracker_Deactivator {
 
 	/**
-	 * Short Description. (use period)
-	 *
-	 * Long Description.
 	 *
 	 * @since    1.0.0
 	 */

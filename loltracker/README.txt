@@ -15,7 +15,7 @@ LoL Tracker is a set of tools relating your league of Legends account.
 LoL Tracker is a set of tools relating your league of Legends account. 
 In this current version there is only the functionality of "Free Week Champions Widget".
 
-More information: http://vvasiloud.github.io/lol-tracker/
+More information: https://github.com/vvasiloud/wp-loltracker
 
 All images used in this plugin are property of Riot Games, Inc.
 Riot Games, League of Legends and PvP.net are trademarks, services marks, or registered trademarks of Riot Games, Inc.

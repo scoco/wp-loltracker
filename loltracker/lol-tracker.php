@@ -8,13 +8,13 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              http://vvasiloud.github.io/loltracker
+ * @link              https://github.com/vvasiloud/wp-loltracker
  * @since             1.0.0
  * @package           LoL_Tracker
  *
  * @wordpress-plugin
  * Plugin Name:       League Of Legends Tracker
- * Plugin URI:        https://vvasiloud.github.io/loltracker
+ * Plugin URI:        https://github.com/vvasiloud/wp-loltracker
  * Description:       LoL Tracker is a set of tools relating your league of Legends account. In this current version there is only the functionality of "Free Week Champions Widget"
  * Version:           1.0.0
  * Author:            vvasiloudis
